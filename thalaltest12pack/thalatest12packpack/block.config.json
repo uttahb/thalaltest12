@@ -3,8 +3,8 @@
   "name": "thalatest12packpack",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/uttahb/thalaltest12.git",
+    "ssh": "git@github.com:uttahb/thalaltest12.git",
     "branch": "block_thalatest12packpack"
   },
   "parentBlockIDs": [
