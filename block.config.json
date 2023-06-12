@@ -1,0 +1,21 @@
+{
+  "name": "thalaltest12",
+  "type": "package",
+  "blockId": "Ul2tqeIdMpINnl-yhv0fz",
+  "source": {
+    "https": "https://github.com/uttahb/thalaltest12.git",
+    "ssh": "git@github.com:uttahb/thalaltest12.git",
+    "branch": "block_thalaltest12"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "thalaltest12pack": {
+      "directory": "thalaltest12pack"
+    }
+  }
+}
