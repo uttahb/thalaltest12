@@ -1,0 +1,24 @@
+{
+  "blockId": "3958O3OlttI-1ZcAsywZX",
+  "name": "thalatest12packpack",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_thalatest12packpack"
+  },
+  "parentBlockIDs": [
+    "Ul2tqeIdMpINnl-yhv0fz",
+    "ntqvjODUdC4v14h0OD4OA"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "dependencies": {
+    "thalatest12packpackfn": {
+      "directory": "thalatest12packpackfn"
+    }
+  }
+}

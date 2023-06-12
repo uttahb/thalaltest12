@@ -1,0 +1,22 @@
+{
+  "blockId": "4WD3neBhzKudvBv7faACj",
+  "name": "thalatest12packpackfn",
+  "type": "function",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_thalatest12packpackfn"
+  },
+  "parentBlockIDs": [
+    "Ul2tqeIdMpINnl-yhv0fz",
+    "ntqvjODUdC4v14h0OD4OA",
+    "3958O3OlttI-1ZcAsywZX"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
